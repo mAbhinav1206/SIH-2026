@@ -17,7 +17,7 @@ export default function Header({ user, isOnline, queueCount, onLogout, onMenuTog
               <Shield className="w-5 h-5 text-white" />
             </div>
             <div className="hidden sm:block">
-              <h1 className="text-sm font-bold text-text-primary leading-none">OccuLung Screen</h1>
+              <h1 className="text-sm font-bold text-text-primary leading-none">Silico-shield</h1>
               <p className="text-[10px] text-text-muted">AI-Assisted OLD Screening</p>
             </div>
           </div>

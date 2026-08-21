@@ -42,7 +42,7 @@ export default function Login({ onLogin, isOnline, queueCount }) {
             <div className="w-16 h-16 bg-clinical-600 rounded-2xl flex items-center justify-center mx-auto mb-4 shadow-lg">
               <Shield className="w-9 h-9 text-white" />
             </div>
-            <h1 className="text-2xl font-bold text-text-primary">OccuLung Screen</h1>
+            <h1 className="text-2xl font-bold text-text-primary">Silico-shield</h1>
             <p className="text-sm text-text-secondary mt-1">
               AI-assisted occupational lung disease screening
             </p>
@@ -129,7 +129,7 @@ export default function Login({ onLogin, isOnline, queueCount }) {
           </div>
 
           <p className="text-center text-xs text-text-muted mt-6">
-            Smart India Hackathon 2026 &middot; OccuLung Screen v1.0
+            Smart India Hackathon 2026 &middot; Silico-shield v1.0
           </p>
         </div>
       </div>
